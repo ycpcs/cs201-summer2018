@@ -36,7 +36,7 @@ Class meetings will be a mix of lecture/discussion and in-class lab exercises de
 
 We will use the Eclipse IDE for labs and programming assignments in Java. This is available for free from [www.eclipse.org](http://www.eclipse.org/). (You will also need the Java Development Kit (JDK) available from [java.sun.com](http://java.sun.com/).)  Make sure you get version 1.8 or higher.
 
-In-class clicker quizzes will be given frequently, typically at the beginning of class. Up to two missed quizzes will be forgiven. Quizzes may not be made up.  Note that these are graded for *participation only*.
+In-class quizzes will be given frequently, typically at the beginning of class. One missed quiz will be forgiven. Quizzes may not be made up.
 
 There will be three midterm exams and one comprehensive final exam.  The dates are shown in the [Schedule](schedule.html).
 
@@ -79,7 +79,8 @@ Your overall grade for the course will be determined as follows:
 
 -   Homework and programming assignments: 30%
 -   Exams (3 midterm exams and 1 comprehensive final exam): 60% <sup><b>\*</b></sup>
--   Labs, attendance/participation: 10%
+-   Labs, attendance/participation: 5%
+-   Quizzes: 5%
 
 <sup><b>\*</b></sup> Note that you must earn a score of 70 or above on *at least one exam* in order to receive a grade of 2.0 or higher for the course.
 
