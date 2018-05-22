@@ -13,6 +13,10 @@ May 15 | [Lecture 1: Introduction, Primitive Java](lectures/lecture01.html), 1.1
 May 17 | [Lecture 2: Objects/References, Constructors, JUnit](lectures/lecture02.html), 2.1&ndash;2.3, 3.1&ndash;3.9<br>[Lecture 3: JUnit, Arrays](lectures/lecture03.html), 2.4
 May 22 | [Lecture 4: File I/O, Exceptions](lectures/lecture04.html), 2.5&ndash;2.6<br>[Lecture 5: Exceptions](lectures/lecture05.html), 2.5
 May 24 | [Lecture 6: GUIs](lectures/lecture06.html)
+May 29 | [Lecture 7: Inheritance](lectures/lecture07.html), 4.1&ndash;4.2<br>[Lecture 8: ArrayList, Inheritance (continued)](lectures/lecture08.html), 4.3&ndash;4.4
+May 31 | [Lecture 9: Type casts, instanceof, Object class, Interfaces](lectures/lecture09.html), 4.5-4.7
+Jun 5  | [Lecture 10: Generic methods and classes](lectures/lecture10.html), 4.5-4.7
+Jun 7  | **EXAM 1**
 
 
 

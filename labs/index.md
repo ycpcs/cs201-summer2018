@@ -20,6 +20,9 @@ May 15 | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
 May 17 | [Lab 2: Coins Class](lab02.html)<br>[Lab 3: Arrays](lab03.html) | [CS201\_Lab02.zip](CS201_Lab02.zip)<br>[CS201\_Lab03.zip](CS201_Lab03.zip)
 May 22 | [Lab 4: Text File I/O](lab04.html)<br>[Lab 5: Exceptions](lab05.html) | [CS201\_Lab04.zip](CS201_Lab04.zip)<br>[CS201\_Lab05.zip](CS201_Lab05.zip)
 May 24 | [Lab 6: GUIs](lab06.html) | [CS201\_Lab06.zip](CS201_Lab06.zip)
+May 29 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)
+May 31 | [Lab 9: Comparable, Sorting](lab09.html) | [CS201\_Lab09.zip](CS201_Lab09.zip)
+Jun 5  | [Lab 10: Using Generic Containers and Algorithms](lab10.html) | [CS201\_Lab10.zip](CS201_Lab10.zip)
 
 <!--
 May 16 | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
