@@ -122,7 +122,7 @@ public abstract class Vehicle {
     private double maxSpeed;
 
     public Vehicle(double maxSpeed) {
-        this.speed = maxSpeed;
+        this.maxSpeed = maxSpeed;
     }
 
     public double getMaxSpeed() {
