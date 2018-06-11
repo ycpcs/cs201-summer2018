@@ -29,6 +29,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * **May 24** &mdash; [Assignment 1](assign/assign01.html) **Due**
 * **June 1** &mdash; [Assignment 2](assign/assign02.html) **Due**
 * **June 7** &mdash; **EXAM 1**
+* **June 15** &mdash; [Assignment 3](assign/assign03.html) **Due**
 
 
 <!--

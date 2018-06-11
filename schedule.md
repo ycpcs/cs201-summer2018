@@ -18,6 +18,9 @@ May 31 | [Lecture 9: Type casts, instanceof, Object class, Interfaces](lectures/
 Jun 5  | Exam review
 Jun 7  | **EXAM 1**
 Jun 12 | [Lecture 10: Generic methods and classes](lectures/lecture10.html), 4.5-4.7
+Jun 14 | [Lecture 11: Generic methods, functors](lectures/lecture11.html), 4.8
+Jun 19 | [Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3 <br /> [Lecture 13: Big-O](lectures/lecture13.html), 5.4-5.8
+Jun 21 | [Lecture 14: Collections, Iterators](lectures/lecture14.html), 6.1-6.3
 
 
 
