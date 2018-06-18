@@ -145,7 +145,7 @@ A partial GUI implementation is given to you in **KlondikeView**.  If your class
 
 Use the Marmoset plugin by selecting the appropriate milestone in the dialog box
 
-    > ![image](img/assign04/upload.png)
+> <a href="img/assign04/upload.png"><img alt="Upload Screenshot" style="width: 404px;" src="img/assign04/upload.png"></a>
 
 OR
 
