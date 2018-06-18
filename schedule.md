@@ -21,6 +21,8 @@ Jun 12 | [Lecture 10: Generic methods and classes](lectures/lecture10.html), 4.5
 Jun 14 | [Lecture 11: Generic methods, functors](lectures/lecture11.html), 4.8
 Jun 19 | [Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3 <br /> [Lecture 13: Big-O](lectures/lecture13.html), 5.4-5.8
 Jun 21 | [Lecture 14: Collections, Iterators](lectures/lecture14.html), 6.1-6.3
+Jun 26 | [Lecture 15: Generic Algorithms](lectures/lecture15.html), 6.4
+Jun 28 | [Lecture 16: Lists](lectures/lecture16.html), 6.5
 
 
 
