@@ -26,12 +26,12 @@ Jun 28 | [Lecture 16: Lists](lectures/lecture16.html), 6.5
 Jul 3 | *Vacation, no class*
 Jul 5 | *Vacation, no class*
 Jul 10 | [Lecture 17: Parallel Programming with Threads](lectures/lecture17.html)
-Jul 12 | [Lecture 18: Stacks and Queues](lectures/lecture18.html)<br>[Lecture 19: Sets and Maps](lectures/lecture19.html)
+Jul 12 | [Lecture 18: Stacks and Queues](lectures/lecture18.html), 6.6<br>[Lecture 19: Sets and Maps](lectures/lecture19.html), 6.7-6.8
 Jul 17 | **EXAM 2**
-Jul 19 | [Lecture 20: Recursion](lectures/lecture20.html)
-Jul 24 | [Lecture 21: Proof by Induction](lectures/lecture21.html)
-Jul 26 | [Lecture 22: Memoization and Dynamic Programming](lectures/lecture22.html)
-Jul 31 | [Lecture 23: Merge Sort and Quick Sort](lectures/lecture23.html)<br>[Lecture 24: Relational Databases and SQL](lectures/lecture24.html)
+Jul 19 | [Lecture 20: Recursion](lectures/lecture20.html), 7.1, 7.3 
+Jul 24 | [Lecture 21: Proof by Induction](lectures/lecture21.html), 7.2
+Jul 26 | [Lecture 22: Memoization and Dynamic Programming](lectures/lecture22.html), 7.6
+Jul 31 | [Lecture 23: Merge Sort and Quick Sort](lectures/lecture23.html), 8.5-8.6<br>[Lecture 24: Relational Databases and SQL](lectures/lecture24.html)
 Aug 2 | [Lecture 25: Database Applications and JDBC](lectures/lecture25.html)
 Aug 7 | **EXAM 3**
 Aug 9 | **FINAL EXAM**
