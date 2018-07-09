@@ -23,8 +23,18 @@ Jun 19 | [Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3 
 Jun 21 | [Lecture 14: Collections, Iterators](lectures/lecture14.html), 6.1-6.3
 Jun 26 | [Lecture 15: Generic Algorithms](lectures/lecture15.html), 6.4
 Jun 28 | [Lecture 16: Lists](lectures/lecture16.html), 6.5
-
-
+Jul 3 | *Vacation, no class*
+Jul 5 | *Vacation, no class*
+Jul 10 | [Lecture 17: Parallel Programming with Threads](lectures/lecture17.html)
+Jul 12 | [Lecture 18: Stacks and Queues](lectures/lecture18.html)<br>[Lecture 19: Sets and Maps](lectures/lecture19.html)
+Jul 17 | **EXAM 2**
+Jul 19 | [Lecture 20: Recursion](lectures/lecture20.html)
+Jul 24 | [Lecture 21: Proof by Induction](lectures/lecture21.html)
+Jul 26 | [Lecture 22: Memoization and Dynamic Programming](lectures/lecture22.html)
+Jul 31 | [Lecture 23: Merge Sort and Quick Sort](lectures/lecture23.html)<br>[Lecture 24: Relational Databases and SQL](lectures/lecture24.html)
+Aug 2 | [Lecture 25: Database Applications and JDBC](lectures/lecture25.html)
+Aug 7 | **EXAM 3**
+Aug 9 | **FINAL EXAM**
 
 
 

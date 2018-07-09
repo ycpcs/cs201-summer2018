@@ -32,8 +32,13 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * **June 15** &mdash; [Assignment 3](assign/assign03.html) **Due**
 * **June 29** &mdash; [Assignment 4](assign/assign04.html) **MS 1 Due**
 * **July 3,5** &mdash; **NO CLASS - 4th of JULY BREAK**
+* **July 9** &mdash; The [Schedule](schedule.html) and [Labs](labs/index.html) pages have been updated.  Also, [Assignment 5](assign/assign05.html) and [Assignment 6](assign/assign06.html) have been posted.
 * **July 12** &mdash; [Assignment 4](assign/assign04.html) **MS 2 Due**
-
+* **July 17** &mdash; **EXAM 2**
+* **July 24** &mdash; [Assignment 5](assign/assign05.html) **Due**
+* **August 6** &mdash; [Assignment 6](assign/assign06.html) **Due**
+* **August 7** &mdash; **EXAM 3**
+* **August 9** &mdash; **FINAL EXAM**
 
 
 <!--

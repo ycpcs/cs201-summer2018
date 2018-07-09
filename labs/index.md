@@ -28,25 +28,16 @@ Jun 19 | [Lab 12: Benchmarking ArrayList](lab12.html) <br /> [Lab 13: Big-O](lab
 Jun 21 | [Lab 14: Iterators, Interleaving](lab14.html) | [CS201\_Lab14.zip](CS201_Lab14.zip)
 Jun 26 | [Lab 15: Generic Algorithms](lab15.html) | [CS201\_Lab15.zip](CS201_Lab15.zip)
 Jun 28 | [Lab 16: List Reversal](lab16.html) | [CS201\_Lab16.zip](CS201_Lab16.zip)
+Jul 10 | [Lab 17: Parallel Estimation of π](lab17.html) | [CS201\_Lab17.zip](CS201_Lab17.zip)
+Jul 12  | [Lab 18: Palindromes](lab18.html)<br>[Lab 19: Word Count](lab19.html) | [CS201\_Lab18.zip](CS201_Lab18.zip)<br>[CS201\_Lab19.zip](CS201_Lab19.zip)
+Jul 17 | **Exam 2**
+Jul 19 | [Lab 20: Recursion](lab20.html)  | [CS201\_Lab20.zip](CS201_Lab20.zip)
+Jul 24 | [Lab 21: Proof By Induction](lab21.html) | n/a
+Jul 26 | [Lab 22: Binomial Coefficient](lab22.html) |  [CS201\_Lab22.zip](CS201_Lab22.zip)
+Jul 31  | [Lab 23: Relational Databases and SQL](lab23.html)  | [CS201\_Lab23.zip](CS201_Lab23.zip)
+Aug 2 | [Lab 24: JDBC](lab24.html) | [CS201\_Derby.zip](CS201_Derby.zip)<br>[CS201\_Lab24.zip](CS201_Lab24.zip)
 
 <!--
-May 16 | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
-May 18 | [Lab 2: Coins Class](lab02.html)<br>[Lab 3: Arrays](lab03.html) | [CS201\_Lab02.zip](CS201_Lab02.zip)<br>[CS201\_Lab03.zip](CS201_Lab03.zip)
-May 23 | [Lab 4: Text File I/O](lab04.html)<br>[Lab 5: Exceptions](lab05.html) | [CS201\_Lab04.zip](CS201_Lab04.zip)<br>[CS201\_Lab05.zip](CS201_Lab05.zip)
-May 25 | [Lab 6: GUIs](lab06.html) | [CS201\_Lab06.zip](CS201_Lab06.zip)
-May 30 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)
-Jun 1  | [Lab 9: Comparable, Sorting](lab09.html) | [CS201\_Lab09.zip](CS201_Lab09.zip)
-Jun 6  | [Lab 10: Using Generic Containers and Algorithms](lab10.html) | [CS201\_Lab10.zip](CS201_Lab10.zip)
-Jun 13 | [Lab 11: Functors](lab11.html) | [CS201\_Lab11.zip](CS201_Lab11.zip)
-Jun 15 | [Lab 12: Benchmarking ArrayList](lab12.html) <br /> [Lab 13: Big-O](lab13.html) | [CS201\_Lab12.zip](CS201_Lab12.zip)
-Jun 20 | [Lab 14: Iterators, Interleaving](lab14.html) | [CS201\_Lab14.zip](CS201_Lab14.zip)
-Jun 22 | [Lab 15: Generic Algorithms](lab15.html) | [CS201\_Lab15.zip](CS201_Lab15.zip)
-Jun 27 | [Lab 16: List Reversal](lab16.html) | [CS201\_Lab16.zip](CS201_Lab16.zip)
-Jun 29 | [Lab 17: Parallel Estimation of π](lab17.html) | [CS201\_Lab17.zip](CS201_Lab17.zip)
-Jul 6  | [Lab 18: Palindromes](lab18.html) | [CS201\_Lab18.zip](CS201_Lab18.zip)
-Jul 25 | [Lab 19: Word Count](lab19.html) | [CS201\_Lab19.zip](CS201_Lab19.zip)
-Jul 27 | [Lab 20: Recursion](lab20.html) <br /> [Lab 21: Proof By Induction](lab21.html) <br /> [Lab 22: Binomial Coefficient](lab22.html) | [CS201\_Lab20.zip](CS201_Lab20.zip) <br />  n/a <br /> [CS201\_Lab22.zip](CS201_Lab22.zip)
-Aug 1  | [Lab 23: Relational Databases and SQL](lab23.html) <br /> [Lab 24: JDBC](lab24.html) | [CS201\_Lab23.zip](CS201_Lab23.zip)<br>[CS201\_Derby.zip](CS201_Derby.zip) <br /> [CS201\_Lab24.zip](CS201_Lab24.zip)
 
 Aug 30 | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
 Sep 1 | [Lab 2: Coins Class](lab02.html) | [CS201\_Lab02.zip](CS201_Lab02.zip)
