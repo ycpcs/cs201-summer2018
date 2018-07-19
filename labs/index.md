@@ -36,6 +36,8 @@ Jul 24 | [Lab 21: Proof By Induction](lab21.html) | n/a
 Jul 26 | [Lab 22: Binomial Coefficient](lab22.html) |  [CS201\_Lab22.zip](CS201_Lab22.zip)
 Jul 31  | [Lab 23: Relational Databases and SQL](lab23.html)  | [CS201\_Lab23.zip](CS201_Lab23.zip)
 Aug 2 | [Lab 24: JDBC](lab24.html) | [CS201\_Derby.zip](CS201_Derby.zip)<br>[CS201\_Lab24.zip](CS201_Lab24.zip)
+Aug 7 : **Exam 3**
+Aug 9 | **Final exam**
 
 <!--
 
