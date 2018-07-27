@@ -14,3 +14,4 @@ May 22 | [ReadLines.zip](ReadLines.zip) | Read all lines of text from a text fil
 May 22 | [WriteTextFile.zip](WriteTextFile.zip) | Write text to a text file
 May 22 | [HandleExceptions.zip](HandleExceptions.zip) | Example of using try/catch and try/finally
 May 24 | [GUIExample.zip](GUIExample.zip) | MVC GUI example
+Jul 26 | [Change.zip](Change.zip) | Make optimal change using dynamic programming
